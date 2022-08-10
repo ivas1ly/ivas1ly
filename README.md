@@ -4,7 +4,7 @@ An ambivert software dev at heart ❤️ OwO
 
 Enjoy building and exploring cool things. I am always open to collaborating on projects and innovative ideas.
 
-- 🔭 Currently working on **secret pet project 😼**
+- 🔭 Currently working on [smolneko](https://github.com/smolneko-team/smolneko) project 😼
 - 🌱 I’m currently learning **Go, JavaScript, TypeScript and Vue**
 - 💬 Ping me about anything **I am happy to help**
 
