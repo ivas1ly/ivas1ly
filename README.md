@@ -1,4 +1,4 @@
-### Konnichiwa 👋, I'm Vasily aka `ivas1ly`
+### Hi 👋, I'm Vasily aka `ivas1ly`
 
 An ambivert software dev at heart ❤️ OwO
 
@@ -30,8 +30,15 @@ Enjoy building and exploring cool things. I am always open to collaborating on p
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivas1ly&show_icons=true&locale=en&layout=compact" alt="ivas1ly" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivas1ly&show_icons=true&locale=en&theme=dark" alt="ivas1ly" />
+</p>
+<p align="center">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivas1ly&show_icons=true&theme=dark&locale=en&layout=compact" alt="ivas1ly" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivas1ly&show_icons=true&locale=en" alt="ivas1ly" /></p>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivas1ly&label=Profile%20views&color=0e75b6&style=flat" alt="ivas1ly" /> </p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@:ivas1ly" />
+</p>
