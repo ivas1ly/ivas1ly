@@ -1,6 +1,6 @@
 Hello there. 👋 I'm `ivas1ly`.
 
-An ambivert software dev at heart ❤️ OwO
+An ambivert software engineer ❤️ OwO
 
 - Currently working on [smolneko](https://github.com/smolneko-team) project. 🌸
 - Go, TypeScript, JavaScript and Vue.
