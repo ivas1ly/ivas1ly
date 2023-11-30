@@ -2,7 +2,7 @@ Hello there. 👋 I'm `ivas1ly`.
 
 An ambivert software engineer ❤️ OwO
 
-- Currently working on [smolneko](https://github.com/smolneko-team) project. 🌸
+- Currently working on [smolneko](https://github.com/smolneko-dev) project. 🌸
 - Go, TypeScript, JavaScript and Vue.
 
 <p align="left">
